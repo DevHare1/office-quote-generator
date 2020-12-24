@@ -22,6 +22,7 @@ export default class App extends Component {
     this.setState({
       quote: newQuote.quote,
       author: newQuote.author,
+      episode: newQuote.episode,
     });
 
     this.shuffleQuotes(quotes);

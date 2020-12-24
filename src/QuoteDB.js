@@ -1,5 +1,23 @@
 const quotes = [
   {
+    quote:
+      "Jim is my enemy. But it turns out that Jim is also his own worst enemy. And the enemy of my enemy is my friend. So Jim, is actually my friend. But, because he is his own worst enemy, the enemy of my friend is my enemy, so actually Jim is my enemy.",
+    author: "Dwight Schrute",
+    episode: "(Season 6, Koi Pond)",
+  },
+  {
+    quote:
+      "My, philosophy is, basically this. And this is something that I live by. And I always have. And I always will. Don’t, ever, for any reason, do anything, to anyone, for any reason, ever, no matter what, no matter where, or who you are with, or, or where you are going, or, or where you’ve been. Ever. For any reason. Whatsoever.",
+    author: "Michael Scott",
+    episode: "(Season 5, The Duel)",
+  },
+  {
+    quote:
+      "Nobody should have to go to work thinking, ‘Oh this is the place that I might die today.’ That’s what a hospital is for. An office is for not dying. An office is a place to live life to the fullest. To the max. To…an office is a place where dreams come true.",
+    author: "Michael Scott",
+    episode: "(Season 5, Stress Relief: Part 1)",
+  },
+  {
     quote: "I’m not superstitious, but I am a little stitious.",
     author: "Michael Scott",
     episode: "(Season 4, Fun Run)",
@@ -154,21 +172,9 @@ const quotes = [
   },
   {
     quote:
-      "Nobody should have to go to work thinking, ‘Oh this is the place that I might die today.’ That’s what a hospital is for. An office is for not dying. An office is a place to live life to the fullest. To the max. To…an office is a place where dreams come true.",
-    author: "Michael Scott",
-    episode: "(Season 5, Stress Relief: Part 1)",
-  },
-  {
-    quote:
       "If I had a gun with two bullets and I was in a room with Hitler, Bin Laden and Toby, I would shoot Toby twice.",
     author: "Michael Scott",
     episode: "(Season 6, The Chump)",
-  },
-  {
-    quote:
-      "My, philosophy is, basically this. And this is something that I live by. And I always have. And I always will. Don’t, ever, for any reason, do anything, to anyone, for any reason, ever, no matter what, no matter where, or who you are with, or, or where you are going, or, or where you’ve been. Ever. For any reason. Whatsoever.",
-    author: "Michael Scott",
-    episode: "(Season 5, The Duel)",
   },
   {
     quote: "I. Declare. Bankruptcy!!",
@@ -192,12 +198,6 @@ const quotes = [
       "’R’ is among the most menacing of sounds. That’s why they call it ‘murder’ and not ‘mukduk.’",
     author: "Dwight Schrute",
     episode: "(Season 6, Mafia)",
-  },
-  {
-    quote:
-      "Jim is my enemy. But it turns out that Jim is also his own worst enemy. And the enemy of my enemy is my friend. So Jim, is actually my friend. But, because he is his own worst enemy, the enemy of my friend is my enemy so actually Jim is my enemy.",
-    author: "Dwight Schrute",
-    episode: "(Season 6, Koi Pond)",
   },
   {
     quote:
